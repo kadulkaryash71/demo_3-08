@@ -1,1 +1,3 @@
-Hi this is a github tutorial from 03 / 08 / 2021
+Hi this is a github tutorial
+
+My name is Yash Kadulkar.
